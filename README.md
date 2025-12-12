@@ -11,3 +11,7 @@ I want a bulleted list
 * item 2
 
 **Author: Franco**
+
+
+## Plots
+![Figure](figures/heatmap_education_ethnic.png)

@@ -9,3 +9,5 @@ This is section 2.
 I want a bulleted list
 * item 1
 * item 2
+
+**Author: Franco**
